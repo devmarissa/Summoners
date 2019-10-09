@@ -29,6 +29,7 @@ Summoners mainly revolves around the theme of the duality between good and evil.
 ### Artifacts
 ### NPC Morphs
 ### Entity Morphs
+### Mounts
 
 ## Map
 ### Regions
@@ -44,3 +45,8 @@ Summoners mainly revolves around the theme of the duality between good and evil.
 ### NPC Dialogue
 ### Artifact Descriptions
 ### Easter Eggs
+
+## Monetization
+### Entity Skins
+### Extra Morph Customization
+### Guild Creation Fee
