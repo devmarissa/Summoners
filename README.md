@@ -50,3 +50,6 @@ Summoners mainly revolves around the theme of the duality between good and evil.
 ### Entity Skins
 ### Extra Morph Customization
 ### Guild Creation Fee
+### Optional Quest Revive Fee
+### Randomized "Double Karma Earned" in Quests
+### Gamepass Increasing "Double Karma Earned" Popups
