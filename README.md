@@ -16,12 +16,22 @@ Summoners is a high-fantasy RPG where players explore a large and varied world t
 ### NPC Animations
 ### Entity Animations
 ### Region-specific Mobs
+### Weapons
+### Artifacts
+### NPC Morphs
+### Entity Morphs
 
 ## Map
 ### Regions
 ### Cities
 ### Terrain
 ### Dungeons
+### Flora
+### Fauna
 ### Puzzles
-### Hidden Easter Eggs
 
+## Lore Implementation
+### Quest Cutscenes
+### NPC Dialogue
+### Artifact Descriptions
+### Easter Eggs
