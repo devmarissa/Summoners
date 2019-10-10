@@ -21,6 +21,8 @@ There is a dynamic range of karma a player can earn.
 - Killing friendly NPCs
 
 ### Summoning
+#### Ritual
+#### Time/Weather Specific Rituals
 
 ### Quests
 #### Karmic Impact
@@ -32,6 +34,8 @@ There is a dynamic range of karma a player can earn.
 ## Game Assets
 ### Voice Acting
 ### NPC Animations
+- Passive occupation actions
+  - Artisans, Farmers, Laborers
 ### Entity Animations
 ### Region-specific Mobs
 ### Weapons
@@ -40,7 +44,7 @@ There is a dynamic range of karma a player can earn.
 ### Entity Morphs
 ### Mounts
 #### Mortality
-
+### Music
 
 ## Map
 ### Regions
@@ -50,6 +54,8 @@ There is a dynamic range of karma a player can earn.
 ### Flora
 ### Fauna
 ### Puzzles
+### Weather
+### Time Cycle
 
 
 ## Lore Implementation
@@ -65,6 +71,7 @@ There is a dynamic range of karma a player can earn.
 ### Quest List
 ### Cosmetics Customization
 ### Guild Management
+### Map 
 
 
 ## Monetization
