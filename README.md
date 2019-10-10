@@ -71,6 +71,8 @@ Quest cutscenes should be fully voiced by voice actors. Cutscenes should also in
 
 # Map
 ## Regions
+All regions will have different themes based on how the climate, culture, and terrain of the region shaped the people who live there.
+## Kingdoms
 ## Cities
 ## Terrain
 ## Dungeons
@@ -90,12 +92,16 @@ Quest cutscenes should be fully voiced by voice actors. Cutscenes should also in
 
 # User Interface
 ## Toolbar
+There will be a custom toolbar with buttons that open your inventory and quest list.
 ## Player Health/Karma Bars
+There will be a player stat bar in the top left corner displaying your avatar through a ViewportFrame, with two bars next to it displaying your current health and karma status.
 ## Inventory
+This will be accessible through a button in the toolbar as well as the "G" hotkey. It will display all of the artifacts and summoning books you own.
 ## Quest List
 ## Cosmetics Customization
 ## Guild Management
 ## Map 
+There will be a minimap system that displays your current location in the world of Inamorta in the top right corner of your screen.
 
 
 # Monetization
@@ -114,5 +120,7 @@ Quest cutscenes should be fully voiced by voice actors. Cutscenes should also in
 
 
 # Investment Terms
+## Why should you invest?
+Summoners has been positively recieved by a large portion of the Roblox community in the two weeks it has been in development. As well, the game demo release on the 8th attracted
 ## Alpha Development Funding Goal
 ## Projected Returns
