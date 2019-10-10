@@ -51,46 +51,75 @@ Quests will contain references to past events, locations, and people to maintain
 
 
 # Game Assets
-
+This section will list all of the game assets required for a complete Alpha release.
 ## Voice Acting
 Quest cutscenes should be fully voiced by voice actors. Cutscenes should also include subtitles.
 ## NPC Animations
 - Passive occupation actions
   - Artisans, Farmers, Laborers
-  - 
+  - Pathfinding for realistic environment immersion
 ## Entity Animations
-## Region-specific Mobs
+- Summoning animation
+- Combat animations
+## Region-specific Enemies
+- Custom enemy morphs
+- Custom enemy rigs
 ## Weapons
+While weapons won't be the main form of combat in this game, they will still be used to battle hostile NPCs and rival players.
+- Swords
+- Axes
+- Staffs
 ## Artifacts
+Artifacts can be found when completing quests or in hidden sacred places across Inamorta. Artifacts can either give special perks to players or be needed in the summoning of a high-level entity.
 ## NPC Morphs
+Lorem ipsum.
 ## Entity Morphs
+Lorem ipsum.
 ## Mounts
+Lorem ipsum.
 ### Mortality
+Lorem ipsum.
 ## Music
+Lorem ipsum.
 
 
 # Map
 ## Regions
 All regions will have different themes based on how the climate, culture, and terrain of the region shaped the people who live there.
 ## Kingdoms
+Lorem ipsum.
 ## Cities
+Lorem ipsum.
 ## Terrain
+Lorem ipsum.
 ## Dungeons
+Lorem ipsum.
 ## Flora
+Lorem ipsum.
 ## Fauna
+Lorem ipsum.
 ## Puzzles
+Lorem ipsum.
 ## Weather
+Lorem ipsum.
 ## Time Cycle
+Lorem ipsum.
 
 
 # Lore Implementation
+The lore surrounding Summoners is key to making this game immersive and enjoyable.
 ## Quest Cutscenes
+Lorem ipsum.
 ## NPC Dialogue
+Lorem ipsum.
 ## Artifact Descriptions
+Lorem ipsum.
 ## Easter Eggs
+Lorem ipsum.
 
 
 # User Interface
+The UI implemented into Summoners will allow for the player to easily view, access, and manage parts of their gameplay.
 ## Toolbar
 There will be a custom toolbar with buttons that open your inventory and quest list.
 ## Player Health/Karma Bars
@@ -98,29 +127,46 @@ There will be a player stat bar in the top left corner displaying your avatar th
 ## Inventory
 This will be accessible through a button in the toolbar as well as the "G" hotkey. It will display all of the artifacts and summoning books you own.
 ## Quest List
+Lorem ipsum.
 ## Cosmetics Customization
+Lorem ipsum.
 ## Guild Management
+Lorem ipsum.
 ## Map 
 There will be a minimap system that displays your current location in the world of Inamorta in the top right corner of your screen.
 
 
 # Monetization
+Lorem ipsum.
 ## Entity Skins
+Lorem ipsum.
 ## Extra Morph Cosmetics Customization
+Lorem ipsum.
 ## Guild Creation Fee
+Lorem ipsum.
 ## Optional Quest Revive Fee
+Lorem ipsum.
 ## Randomized "Double Karma Earned" in Quests
+Lorem ipsum.
 ## Gamepass Increasing "Double Karma Earned" Popups
+Lorem ipsum.
 
 
 # Sample Gameplay Description
-
+Lorem ipsum.
 
 # Lore Wiki
-
+Lorem ipsum.
 
 # Investment Terms
 ## Why should you invest?
-Summoners has been positively recieved by a large portion of the Roblox community in the two weeks it has been in development. As well, the game demo release on the 8th attracted
+Summoners has been positively recieved by a large portion of the Roblox community in the two weeks it has been in development. As well, the game demo release on the 8th attracted a large influx of users into the Discord and increased the attention drawn to this game. After making the game paid access at midnight, we generated a total of 30 game access purchases the following day (9th) in spite of the game being a demonstration. We have also recieved lots of positive comments and feedback regarding the game and have a strong community surrounding the project only weeks after its inception.
 ## Alpha Development Funding Goal
+Our current funding goal is 15,000 USD. The minimum investment per investor is 1,000 USD to limit investor count. These funds will go directly into Alpha development to reach our goal of release by Christmas.
+### Funding Breakdown
+These funds will be channeled into the following categories with the following amount allocations:
+- Building
+  - Map (Proj. $1,500)
+  - Assets (Proj. $2,000)
 ## Projected Returns
+Lorem ipsum.
