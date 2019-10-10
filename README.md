@@ -171,8 +171,10 @@ Our current funding goal is 15,000 USD. The minimum investment per investor is 1
 ### Funding Breakdown
 These funds will be channeled into the following categories with the following amount allocations:
 - Building
-  - Map (Proj. $1,500)
-  - Assets (Proj. $2,000)
+  - Map (Proj. $500/3 weeks)
+  - Assets (Proj. $2,000/3 weeks)
+  - Gameplay Scripting (Proj. $1,000/1 month)
+  - UI (Proj. $100/1 week)
   
 ## Projected Returns
 Lorem ipsum.
