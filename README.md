@@ -6,6 +6,7 @@ Summoners is a high-fantasy RPG where players explore a large and varied world t
 
 
 # Game Mechanics
+This section will list all of the main mechanics of Summoners in detail and how they will be implemented into Alpha.
 
 ## Guilds
 Players will be able to start their own guilds of their chosen class depending on their karmic alignment.
@@ -19,21 +20,28 @@ There is a dynamic range of karma a player can earn.
 ### Positive Karmic Actions
 - Completing ethical quests
 - Killing hostile NPCs
+- Killing members of the same karmic alignment
 
 ### Negative Karmic Actions
 - Completing unethical quests
 - Killing friendly NPCs
+- Killing members of the same karmic alignment
 
 
 ## Summoning
-In order to get entities to fight for you and your guild in combat, 
+In order to get entities to fight for you and your guild in combat, you need to complete a summoning ritual according to the entities' summoning book.
 ### Ritual
+The books you find on quests throughout Inamorta will outline a specific ritual you need to excecute either alone or with your guild, depending on the requirements.
+- Artifacts required for higher level entities
+- Multiple players required for higher level entities
+- Ritual duration will vary based on the power of the entity
 
-### Time/Weather Specific Rituals
+### Time/Weather/Location Specific Rituals
+Certain high-karma level entities will require specific times and weather conditions to summon them to limit overpowered summons in the game.
 
 
 ## Quests
-
+Quests are given by friendly NPCs who will give a task for the player to complete. Quests will give various rewards, either by finding a summoning book or getting rewarded karma.
 ### Karmic Impact
 
 ## Lore Detailing
