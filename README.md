@@ -43,17 +43,21 @@ Certain high-karma level entities will require specific times and weather condit
 ## Quests
 Quests are given by friendly NPCs who will give a task for the player to complete. Quests will give various rewards, either by finding a summoning book or getting rewarded karma.
 ### Karmic Impact
+Depending on the karmic alignment of the quest issuer, upon the completion of the quest your karmic level will be either added to or subtracted from.
 
 ## Lore Detailing
+Quests will contain references to past events, locations, and people to maintain the historical lore of the game and to add to the gameplay depth and immersion.
 
 
 
 # Game Assets
 
 ## Voice Acting
+Quest cutscenes should be fully voiced by voice actors. Cutscenes should also include subtitles.
 ## NPC Animations
 - Passive occupation actions
   - Artisans, Farmers, Laborers
+  - 
 ## Entity Animations
 ## Region-specific Mobs
 ## Weapons
