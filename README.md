@@ -35,7 +35,8 @@ There is a dynamic range of karma a player can earn.
 
 
 
-## Game Assets
+# Game Assets
+
 ## Voice Acting
 ## NPC Animations
 - Passive occupation actions
@@ -51,48 +52,48 @@ There is a dynamic range of karma a player can earn.
 ## Music
 
 
-## Map
-### Regions
-### Cities
-### Terrain
-### Dungeons
-### Flora
-### Fauna
-### Puzzles
-### Weather
-### Time Cycle
+# Map
+## Regions
+## Cities
+## Terrain
+## Dungeons
+## Flora
+## Fauna
+## Puzzles
+## Weather
+## Time Cycle
 
 
-## Lore Implementation
-### Quest Cutscenes
-### NPC Dialogue
-### Artifact Descriptions
-### Easter Eggs
+# Lore Implementation
+## Quest Cutscenes
+## NPC Dialogue
+## Artifact Descriptions
+## Easter Eggs
 
 
-## User Interface
-### Toolbar
-### Player Health/Karma Bars
-### Inventory
-### Quest List
-### Cosmetics Customization
-### Guild Management
-### Map 
+# User Interface
+## Toolbar
+## Player Health/Karma Bars
+## Inventory
+## Quest List
+## Cosmetics Customization
+## Guild Management
+## Map 
 
 
-## Monetization
-### Entity Skins
-### Extra Morph Cosmetics Customization
-### Guild Creation Fee
-### Optional Quest Revive Fee
-### Randomized "Double Karma Earned" in Quests
-### Gamepass Increasing "Double Karma Earned" Popups
+# Monetization
+## Entity Skins
+## Extra Morph Cosmetics Customization
+## Guild Creation Fee
+## Optional Quest Revive Fee
+## Randomized "Double Karma Earned" in Quests
+## Gamepass Increasing "Double Karma Earned" Popups
 
 
-## Sample Gameplay Description
+# Sample Gameplay Description
 
 
-## Lore Wiki
+# Lore Wiki
 
 
 # Investment Terms
