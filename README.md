@@ -6,16 +6,20 @@ Summoners is a high-fantasy RPG where players explore a large and varied world t
 
 
 ## Game Mechanics
+
 ### Guilds
 Players will be able to start their own guilds of their chosen class depending on their karmic alignment.
 
 ### Karma
 Summoners mainly revolves around the theme of the duality between good and evil. The actions you take in the game will either positively or negatively impact your karmic level, and depending on your goals, this can be good or bad for you. All entities and artifacts will require a specific range of karma in order to be able to summon or use them.
+
 #### Karmic Levels
 There is a dynamic range of karma a player can earn.
+
 #### Positive Karmic Actions
 - Completing ethical quests
 - Killing hostile NPCs
+
 #### Negative Karmic Actions
 - Completing unethical quests
 - Killing friendly NPCs
@@ -23,10 +27,8 @@ There is a dynamic range of karma a player can earn.
 ### Summoning
 #### Ritual
 #### Time/Weather Specific Rituals
-
 ### Quests
 #### Karmic Impact
-
 ### Lore Detailing
 
 
@@ -46,6 +48,7 @@ There is a dynamic range of karma a player can earn.
 #### Mortality
 ### Music
 
+
 ## Map
 ### Regions
 ### Cities
@@ -63,6 +66,7 @@ There is a dynamic range of karma a player can earn.
 ### NPC Dialogue
 ### Artifact Descriptions
 ### Easter Eggs
+
 
 ## User Interface
 ### Toolbar
@@ -84,3 +88,11 @@ There is a dynamic range of karma a player can earn.
 
 
 ## Sample Gameplay Description
+
+
+## Lore Wiki
+
+
+# Investment Terms
+## Alpha Development Funding Goal
+## Projected Returns
