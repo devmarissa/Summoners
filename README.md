@@ -58,7 +58,8 @@ Quest cutscenes should be fully voiced by voice actors. Cutscenes should also in
 - Passive occupation actions
   - Artisans, Farmers, Laborers
   - Pathfinding for realistic environment immersion
-  
+- Cutscene animations
+
 ## Entity Animations
 - Summoning animation
 - Combat animations
