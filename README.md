@@ -39,6 +39,7 @@ There is a dynamic range of karma a player can earn.
 ### NPC Morphs
 ### Entity Morphs
 ### Mounts
+#### Mortality
 
 
 ## Map
