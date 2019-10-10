@@ -58,17 +58,21 @@ Quest cutscenes should be fully voiced by voice actors. Cutscenes should also in
 - Passive occupation actions
   - Artisans, Farmers, Laborers
   - Pathfinding for realistic environment immersion
+  
 ## Entity Animations
 - Summoning animation
 - Combat animations
+
 ## Region-specific Enemies
 - Custom enemy morphs
 - Custom enemy rigs
+
 ## Weapons
 While weapons won't be the main form of combat in this game, they will still be used to battle hostile NPCs and rival players.
 - Swords
 - Axes
 - Staffs
+
 ## Artifacts
 Artifacts can be found when completing quests or in hidden sacred places across Inamorta. Artifacts can either give special perks to players or be needed in the summoning of a high-level entity.
 ## NPC Morphs
@@ -168,5 +172,6 @@ These funds will be channeled into the following categories with the following a
 - Building
   - Map (Proj. $1,500)
   - Assets (Proj. $2,000)
+  
 ## Projected Returns
 Lorem ipsum.
