@@ -5,48 +5,50 @@ This document will outline the details of the Summoners game and the requested f
 Summoners is a high-fantasy RPG where players explore a large and varied world to collect summoning books that expand their abilities. Summoned entities each have unique properties and an array of abilities that players can use in both PVE and PVP combat. Each summon is tied to the player's karmic level, ranging from negative to positive, meaning that every decision a player makes will lead them further down their chosen path.
 
 
-## Game Mechanics
+# Game Mechanics
 
-### Guilds
+## Guilds
 Players will be able to start their own guilds of their chosen class depending on their karmic alignment.
 
-### Karma
+## Karma
 Summoners mainly revolves around the theme of the duality between good and evil. The actions you take in the game will either positively or negatively impact your karmic level, and depending on your goals, this can be good or bad for you. All entities and artifacts will require a specific range of karma in order to be able to summon or use them.
 
-#### Karmic Levels
+### Karmic Levels
 There is a dynamic range of karma a player can earn.
 
-#### Positive Karmic Actions
+### Positive Karmic Actions
 - Completing ethical quests
 - Killing hostile NPCs
 
-#### Negative Karmic Actions
+### Negative Karmic Actions
 - Completing unethical quests
 - Killing friendly NPCs
 
-### Summoning
-#### Ritual
-#### Time/Weather Specific Rituals
-### Quests
-#### Karmic Impact
-### Lore Detailing
+## Summoning
+### Ritual
+### Time/Weather Specific Rituals
+
+## Quests
+### Karmic Impact
+
+## Lore Detailing
 
 
 
 ## Game Assets
-### Voice Acting
-### NPC Animations
+## Voice Acting
+## NPC Animations
 - Passive occupation actions
   - Artisans, Farmers, Laborers
-### Entity Animations
-### Region-specific Mobs
-### Weapons
-### Artifacts
-### NPC Morphs
-### Entity Morphs
-### Mounts
-#### Mortality
-### Music
+## Entity Animations
+## Region-specific Mobs
+## Weapons
+## Artifacts
+## NPC Morphs
+## Entity Morphs
+## Mounts
+### Mortality
+## Music
 
 
 ## Map
