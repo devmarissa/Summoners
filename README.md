@@ -1,7 +1,7 @@
 # Summoners Game Investment Proposal
 This document will outline the details of the Summoners game and the requested funding goal for supporting Alpha development.
 
-## Game Summary
+### Game Summary
 Summoners is a high-fantasy RPG where players explore a large and varied world to collect summoning books that expand their abilities. Summoned entities each have unique properties and an array of abilities that players can use in both PVE and PVP combat. Each summon is tied to the player's karmic level, ranging from negative to positive, meaning that every decision a player makes will lead them further down their chosen path.
 
 
@@ -24,11 +24,16 @@ There is a dynamic range of karma a player can earn.
 - Completing unethical quests
 - Killing friendly NPCs
 
+
 ## Summoning
+In order to get entities to fight for you and your guild in combat, 
 ### Ritual
+
 ### Time/Weather Specific Rituals
 
+
 ## Quests
+
 ### Karmic Impact
 
 ## Lore Detailing
