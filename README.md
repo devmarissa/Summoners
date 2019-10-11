@@ -148,13 +148,16 @@ Lorem ipsum.
 ## Extra Morph Cosmetics Customization
 Lorem ipsum.
 ## Guild Creation Fee
-Lorem ipsum.
+100 Robux
 ## Optional Quest Revive Fee
-Lorem ipsum.
-## Randomized "Double Karma Earned" in Quests
-Lorem ipsum.
-## Gamepass Increasing "Double Karma Earned" Popups
-Lorem ipsum.
+1 Time Revive = 20 Robux
+2 Extra Respawns = 35 Robux
+3 Extra Respawns = 45 Robux
+## Double Karma Timer
+6 hours of Double Karma = 50 Robux
+12 hours of Double Karma = 100 Robux
+24 Hours of Double Karma = 175 Robux
+
 
 
 # Sample Gameplay Description
