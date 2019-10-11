@@ -150,13 +150,13 @@ Lorem ipsum.
 ## Guild Creation Fee
 100 Robux
 ## Optional Quest Revive Fee
-1 Time Revive = 20 Robux
-2 Extra Respawns = 35 Robux
-3 Extra Respawns = 45 Robux
+- 1 Time Revive = 20 Robux
+- 2 Extra Respawns = 35 Robux
+- 3 Extra Respawns = 45 Robux
 ## Double Karma Timer
-6 hours of Double Karma = 50 Robux
-12 hours of Double Karma = 100 Robux
-24 Hours of Double Karma = 175 Robux
+- 6 hours of Double Karma = 50 Robux
+- 12 hours of Double Karma = 100 Robux
+- 24 Hours of Double Karma = 175 Robux
 
 
 
