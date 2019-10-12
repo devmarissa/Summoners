@@ -96,15 +96,15 @@ Lorem ipsum.
 ## Cities
 Lorem ipsum.
 ## Terrain
-Lorem ipsum.
+The biomes and topography of Inamorta will be varied, providing real advantages and disadvantages to players equipped with certain mounts and entities. The greater the variety, the more immersion and impetus for exploration.
 ## Dungeons
-Lorem ipsum.
+A great deal of gameplay will take place in dungeons, which will include: traditional underground dungeon levels, ruins, hostile cities, fortresses and castles, and other complexes as detailed in the game's extensive lore.
 ## Flora
 Lorem ipsum.
 ## Fauna
 Lorem ipsum.
 ## Puzzles
-Lorem ipsum.
+Puzzles will be found primarily in dungeons, and provide not only a challenging alternative to PVP and PVE, but also a means of controlling a quest narrative's pacing while keeping players engaged.
 ## Weather
 Lorem ipsum.
 ## Time Cycle
@@ -114,7 +114,7 @@ Lorem ipsum.
 # Lore Implementation
 The lore surrounding Summoners is key to making this game immersive and enjoyable.
 ## Quest Cutscenes
-Lorem ipsum.
+A highly desirable feature for players seeking depth of story. Our cutscenes will highlight portions of the game lore, introduce important and recurring characters, and increase player investment as they are drawn into the larger narrative.
 ## NPC Dialogue
 Lorem ipsum.
 ## Artifact Descriptions
