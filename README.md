@@ -170,14 +170,14 @@ Lorem ipsum.
 ## Why should you invest?
 Summoners has been positively recieved by a large portion of the Roblox community in the two weeks it has been in development. As well, the game demo release on the 8th attracted a large influx of users into the Discord and increased the attention drawn to this game. After making the game paid access at midnight, we generated a total of 30 game access purchases the following day (9th) in spite of the game being a demonstration. We have also recieved lots of positive comments and feedback regarding the game and have a strong community surrounding the project only weeks after its inception.
 ## Alpha Development Funding Goal
-Our current funding goal is 15,000 USD. The minimum investment per investor is 1,000 USD to limit investor count. These funds will go directly into Alpha development to reach our goal of release by Christmas.
+Our current funding goal is$ 5,000 USD. The minimum investment per investor is $1,000 USD to limit investor count. These funds will go directly into Alpha development to reach our goal of release by Christmas.
 ### Funding Breakdown
 These funds will be channeled into the following categories with the following amount allocations:
 - Building
   - Map (Proj. $500/3 weeks)
   - Assets (Proj. $2,000/3 weeks)
-  - Gameplay Scripting (Proj. $1,000/1 month)
-  - UI (Proj. $100/1 week)
-  
+- Gameplay Scripting (Proj. $1,000/1 month)
+- UI (Proj. $100/1 week)
+- Cont.
 ## Projected Returns
 Lorem ipsum.
