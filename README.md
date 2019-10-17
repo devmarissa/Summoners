@@ -176,8 +176,9 @@ These funds will be channeled into the following categories with the following a
 - Building
   - Map ($500/3 weeks - AlvinPolys, Builder)
   - Assets (Proj. $500/1 month - HavocOmega, EnDarke)
-- Gameplay Scripting (Proj. $1,000/1 month - Saber_Art, n_arc, rokedev)
-- UI (Proj. $100/1 week - TedArthur, UI Designer)
+- Gameplay Scripting ($1,000/1 month - Saber_Art, n_arc, rokedev)
+- Animations ($150/2 weeks - Jv_sh)
+- UI ($100/1 week - TedArthur, UI Designer)
 - Lore ($200/1 week - Gojirax, Creative Director)
 ## Projected Returns
 Lorem ipsum.
